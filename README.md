@@ -2,6 +2,8 @@
 
 This repository containts an Ethereum DApp that demonstrates a Supply Chain flow between a Seller and Buyer. The user story is similar to any commonly used supply chain process. A Seller can add items to the inventory system stored in the blockchain. A Buyer can purchase such items from the inventory system. Additionally a Seller can mark an item as Shipped, and similarly a Buyer can mark an item as Received.
 
+# Contract Information
+
 Supply Chain transaction hash: 0x7807fda087ba0d69a3120afa0f07112fd3c31cc6a6be9577b09a83cd567d86b8
 Supply Chain contract address:    0x8edD449dB7B22F1604113f62d3d132c33FD7A03A
 

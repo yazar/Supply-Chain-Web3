@@ -16,6 +16,8 @@ Node v12.0.0
 
 Web3.js v1.2.1
 
+![Alt text](images/Activity.png)
+
 
 The DApp User Interface when running should look like...
 

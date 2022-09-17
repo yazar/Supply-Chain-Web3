@@ -5,6 +5,7 @@ This repository containts an Ethereum DApp that demonstrates a Supply Chain flow
 # Contract Information
 
 Supply Chain transaction hash: 0x7807fda087ba0d69a3120afa0f07112fd3c31cc6a6be9577b09a83cd567d86b8
+
 Supply Chain contract address:    0x8edD449dB7B22F1604113f62d3d132c33FD7A03A
 
 The DApp User Interface when running should look like...
